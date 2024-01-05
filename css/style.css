@@ -93,7 +93,7 @@ body {
 }
 .header_container .info-about-game {
   display: flex;
-  width: 350px;
+  width: 300px;
   justify-content: space-between;
 }
 
