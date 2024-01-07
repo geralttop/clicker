@@ -51,3 +51,4 @@ function getRandomColor() {
     }
     return color;
 }
+console.log(1);
